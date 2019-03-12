@@ -16,3 +16,4 @@
 <p>Yeah it's that easy.</p>
 <p>In the above gif I use the command !ma but you can use any of the following "!ma | !memealyze | !Memealyze | !MemeAlyze"</p>
 <p>Any questions, comments, suggestions, or otherwise can be posted here on github or sent to me via discord @yugnut#6454</p>
+<p>If you don't want to host this yourself you can always add the bot through the "Discord Bot List" : https://discordbots.org/bot/368111210840850433</p>
