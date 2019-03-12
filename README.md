@@ -6,7 +6,7 @@
 
 <p>Come bask in the glory of the one, the only, MEME BOT!</p>
 
-<p>Basically it's a bot that takes images submited by users (mainly memes) and then sends that image to a nueral network for analysis, after that's done the bot tells you what the neural network found. Tout fini</p>
+<p>Basically it's a bot that takes images submited by users (mainly memes) and then sends that image to a neural network for analysis, after that's done the bot tells you what the neural network found. Tout fini</p>
 
 <h3>How do you even use this piece of shit?</h3>
 <p>I'm glad you asked, check out the gif below</p>
