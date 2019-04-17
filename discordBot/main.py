@@ -4,7 +4,6 @@ import asyncio
 import configparser
 import os
 from discord.ext.commands import Bot
-from getpass import getuser
 
 if (not os.path.isfile(os.path.join(os.path.dirname(__file__), "config.ini"))):
     print("No config file found, make sure you have one in the same directory as this python script\nexiting")
